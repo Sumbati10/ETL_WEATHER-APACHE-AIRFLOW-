@@ -41,7 +41,7 @@ This is an end-to-end data pipeline that fetches daily weather data for UK citie
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/chiranjeevi-sagi/weather-data-pipeline.git
+   https://github.com/Sumbati10/ETL_WEATHER-APACHE-AIRFLOW-.git
    cd weather-data-pipeline
 
 2. **Create your .env file**
@@ -70,4 +70,4 @@ Want to checkout a demo of this project? go to : https://youtu.be/w9Ke-BMettc
 Congratulations on completing your ETL project!
 
 ## Credits
-Built by [Chiranjeevi Sagi](https://github.com/chiranjeevi-sagi)
+Built by [Lindah Sumbati)
